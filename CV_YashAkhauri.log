@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.10.25)  21 MAY 2020 17:53
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2016.10.25)  21 MAY 2020 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Resume_YashAkhauri.tex
-(./Resume_YashAkhauri.tex
+**CV_YashAkhauri.tex
+(./CV_YashAkhauri.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 5 languages loaded.
 (./deedy-resume-openfont.cls
@@ -712,8 +712,8 @@ anguage=DFLT;mapping=tex-text;mapping=tex-text;mapping=tex-text;+smcp;"
 .................................................
 
 TextBlockOrigin set to 0mm x 5mm
-) (./Resume_YashAkhauri.aux)
-\openout1 = `Resume_YashAkhauri.aux'.
+) (./CV_YashAkhauri.aux)
+\openout1 = `CV_YashAkhauri.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -788,9 +788,9 @@ LaTeX Info: Redefining \ref on input line 2.
 LaTeX Info: Redefining \pageref on input line 2.
 LaTeX Info: Redefining \nameref on input line 2.
 
-(./Resume_YashAkhauri.out) (./Resume_YashAkhauri.out)
+(./CV_YashAkhauri.out) (./CV_YashAkhauri.out)
 \@outlinefile=\write3
-\openout3 = `Resume_YashAkhauri.out'.
+\openout3 = `CV_YashAkhauri.out'.
 
 
 ABD: EveryShipout initializing macros
@@ -919,11 +919,11 @@ ext;+smcp;"
 
 
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
-(Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 19.
+(Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 66.
 
 
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(1)/m/sc' undefined
-(Font)              using `EU1/Lato-Lig(1)/m/n' instead on input line 19.
+(Font)              using `EU1/Lato-Lig(1)/m/n' instead on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -949,7 +949,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 
 LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
-(Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 20.
+(Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 69.
 
 \g__fontspec_family_Lato-Reg_int=\count152
 .................................................
@@ -968,66 +968,36 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 . and font adjustment code:
 . 
 .................................................
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 92.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 92.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-|[]\EU1/Lato-Bol(0)/bx/n/12 PAPERS|
- []
-
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(2)' created for font 'Lato-Lig' with options
-. [Mapping=tex-text,Ligatures=TeX,Color=primary,Path =
-. fonts/lato/,VerticalPosition=Superior].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. 
-. <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=DFLT;mapping=tex-text;mappi
-ng=tex-text;+sups;color=2B2B2BFF
-. ;"
-. 
-. * 'small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
-.................................................
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-|[]\EU1/Lato-Bol(0)/bx/n/12 TALKS|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-|[]\EU1/Lato-Bol(0)/bx/n/12 GRANTS|
- []
-
-[1
+) [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
- (./Resume_YashAkhauri.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
+
+(./CV_YashAkhauri.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 210.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
- 22153 strings out of 495597
- 408583 string characters out of 6186289
- 462294 words of memory out of 5000000
- 25171 multiletter control sequences out of 15000+600000
- 4344 words of font info for 58 fonts, out of 8000000 for 9000
+ 22136 strings out of 495597
+ 407721 string characters out of 6186289
+ 464263 words of memory out of 5000000
+ 25160 multiletter control sequences out of 15000+600000
+ 4304 words of font info for 53 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 53i,5n,105p,10386b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,5n,105p,10382b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Resume_YashAkhauri.pdf (1 page).
+Output written on CV_YashAkhauri.pdf (1 page).
